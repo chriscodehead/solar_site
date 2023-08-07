@@ -1,7 +1,7 @@
 <?php
 require_once('library.php');
 $active4 = 'active';
-$title = 'Gallery | We provide the first-class solar energy solutions to families and businesses across the - ' . $siteName;
+$title = 'Gallery | We provide the first-class solar energy solutions to families and businesses across the';
 require_once('head.php'); ?>
 
 <body>
